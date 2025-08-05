@@ -1,4 +1,4 @@
-# 🤖 Nayan Bot
+# 🤖 RAHI BOT BBY
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
@@ -8,12 +8,12 @@
 
 <div align="center"> 
   <a href="https://youtu.be/maayqyNRVoU?si=V0o0wDq81uYf2KAk"> 
-    <img src="https://i.postimg.cc/mgFkCk39/IMG-20250105-WA0013.jpg" alt="Nayan Bot" height="300"> 
+    <img src="https://i.postimg.cc/mgFkCk39/IMG-20250105-WA0013.jpg" alt="rahi Bot" height="300"> 
   </a> 
 </div>
 <br>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{NAYAN-WHATSAPP-BOT}/count.svg" alt="Nayan :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{NAYAN-WHATSAPP-BOT}/count.svg" alt="Rahi :: Visitor's Count" /></p>
 
 
 ---
